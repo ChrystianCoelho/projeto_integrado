@@ -1,5 +1,5 @@
-# DevOps-
-# Tec Web-
-# SQL-
-# LPII-
-# EngSoftware-
+# DevOps
+# Tec Web
+# SQL
+# LPII
+# EngSoftware
